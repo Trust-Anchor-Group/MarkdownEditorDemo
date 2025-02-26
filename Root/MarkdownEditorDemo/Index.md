@@ -18,3 +18,4 @@ Following content pages are available for testing the Markdown Editor feature:
 | Pages displaying content                                                                ||
 |:--------------------------------------|:-------------------------------------------------|
 | [`Simple.md`](Simple.md)              | Shows a simple text editor for editing Markdown. |
+| [`TwoEditors.md`](TwoEditors.md)      | Contains two separate editors.                   |

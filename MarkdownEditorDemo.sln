@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MarkdownEditorDemo", "Markd
 	ProjectSection(SolutionItems) = preProject
 		Root\MarkdownEditorDemo\Index.md = Root\MarkdownEditorDemo\Index.md
 		Root\MarkdownEditorDemo\Simple.md = Root\MarkdownEditorDemo\Simple.md
+		Root\MarkdownEditorDemo\TwoEditors.md = Root\MarkdownEditorDemo\TwoEditors.md
 	EndProjectSection
 EndProject
 Global

@@ -3,6 +3,8 @@
 	<Folder name="Root">
 		<Folder name="MarkdownEditorDemo">
 			<Content fileName="Index.md"/>
+			<Content fileName="Simple.md"/>
+			<Content fileName="TwoEditors.md"/>
 		</Folder>
 	</Folder>
 </Module>
