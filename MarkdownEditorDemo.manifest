@@ -5,6 +5,9 @@
 			<Content fileName="DynamicEditor.md"/>
 			<Content fileName="DynamicEditors.js"/>
 			<Content fileName="DynamicEditors.md"/>
+			<Content fileName="DynamicScalingEditor.md"/>
+			<Content fileName="DynamicScalingEditors.js"/>
+			<Content fileName="DynamicScalingEditors.md"/>
 			<Content fileName="Index.md"/>
 			<Content fileName="LimitedSpace.md"/>
 			<Content fileName="Scaling.md"/>

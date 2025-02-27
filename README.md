@@ -51,17 +51,20 @@ listed below to your Neuron(R), or install a prepared package file containing th
 Project Files
 ----------------
 
-| File                                           | Description                                                                  |
-|:-----------------------------------------------|:-----------------------------------------------------------------------------|
-| `Root\MarkdownEditorDemo\DynamicEditor.md`     | Defines an editor that will be dynamically added by the user.                |
-| `Root\MarkdownEditorDemo\DynamicEditors.js`    | JavaScript for the `DynamicEditors.md` page.                                 |
-| `Root\MarkdownEditorDemo\DynamicEditors.md`    | Page where the user can add editors dynamically.                             |
-| `Root\MarkdownEditorDemo\Index.md`             | First page in the demo, that allows users to describe what they want to buy. |
-| `Root\MarkdownEditorDemo\LimitedSpace.md`      | Page that tests the editor using limited space.                              |
-| `Root\MarkdownEditorDemo\Scaling.md`           | Page that has an editor that scales with the content.                        |
-| `Root\MarkdownEditorDemo\Simple.md`            | Page that tests the basic funcionality of the editor.                        |
-| `Root\MarkdownEditorDemo\TwoEditors.md`        | Page that tests two editors at the same time.                                |
-| `Root\MarkdownEditorDemo\TwoScalingEditors.md` | Page that tests two scaling editors at the same time.                        |
+| File                                               | Description                                                                  |
+|:---------------------------------------------------|:-----------------------------------------------------------------------------|
+| `Root\MarkdownEditorDemo\DynamicEditor.md`         | Defines an editor that will be dynamically added by the user.                |
+| `Root\MarkdownEditorDemo\DynamicEditors.js`        | JavaScript for the `DynamicEditors.md` page.                                 |
+| `Root\MarkdownEditorDemo\DynamicEditors.md`        | Page where the user can add editors dynamically.                             |
+| `Root\MarkdownEditorDemo\DynamicScalingEditor.md`  | Defines a scaling editor that will be dynamically added by the user.         |
+| `Root\MarkdownEditorDemo\DynamicScalingEditors.js` | JavaScript for the `DynamicScalingEditors.md` page.                          |
+| `Root\MarkdownEditorDemo\DynamicScalingEditors.md` | Page where the user can add scaling editors dynamically.                     |
+| `Root\MarkdownEditorDemo\Index.md`                 | First page in the demo, that allows users to describe what they want to buy. |
+| `Root\MarkdownEditorDemo\LimitedSpace.md`          | Page that tests the editor using limited space.                              |
+| `Root\MarkdownEditorDemo\Scaling.md`               | Page that has an editor that scales with the content.                        |
+| `Root\MarkdownEditorDemo\Simple.md`                | Page that tests the basic funcionality of the editor.                        |
+| `Root\MarkdownEditorDemo\TwoEditors.md`            | Page that tests two editors at the same time.                                |
+| `Root\MarkdownEditorDemo\TwoScalingEditors.md`     | Page that tests two scaling editors at the same time.                        |
 
 Gateway.config
 -----------------

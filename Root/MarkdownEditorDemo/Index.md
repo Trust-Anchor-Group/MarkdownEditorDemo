@@ -15,11 +15,12 @@ Markdown Editor Demo
 
 Following content pages are available for testing the Markdown Editor feature:
 
-| Pages displaying content                                                                                                    ||
-|:-----------------------------------------------|:----------------------------------------------------------------------------|
-| [`Simple.md`](Simple.md)                       | Shows a simple text editor for editing Markdown.                            |
-| [`TwoEditors.md`](TwoEditors.md)               | Contains two separate editors.                                              |
-| [`LimitedSpace.md`](LimitedSpace.md)           | Contains an editor with limited space.                                      |
-| [`DynamicEditors.md`](DynamicEditors.md)       | Contains a page where the user can add editors dynamically.                 |
-| [`Scaling.md`](Scaling.md)                     | Contains a page where the editor scales with the content the user provodes. |
-| [`TwoScalingEditors.md`](TwoScalingEditors.md) | Contains two separate scaling editors.                                      |
+| Pages displaying content                                                                                                            ||
+|:-------------------------------------------------------|:----------------------------------------------------------------------------|
+| [`Simple.md`](Simple.md)                               | Shows a simple text editor for editing Markdown.                            |
+| [`TwoEditors.md`](TwoEditors.md)                       | Contains two separate editors.                                              |
+| [`LimitedSpace.md`](LimitedSpace.md)                   | Contains an editor with limited space.                                      |
+| [`DynamicEditors.md`](DynamicEditors.md)               | Contains a page where the user can add editors dynamically.                 |
+| [`Scaling.md`](Scaling.md)                             | Contains a page where the editor scales with the content the user provodes. |
+| [`TwoScalingEditors.md`](TwoScalingEditors.md)         | Contains two separate scaling editors.                                      |
+| [`DynamicScalingEditors.md`](DynamicScalingEditors.md) | Contains a page where the user can add scaling editors dynamically.         |
