@@ -58,6 +58,7 @@ Project Files
 | `Root\MarkdownEditorDemo\DynamicEditors.md` | Page where the user can add editors dynamically.                             |
 | `Root\MarkdownEditorDemo\Index.md`          | First page in the demo, that allows users to describe what they want to buy. |
 | `Root\MarkdownEditorDemo\LimitedSpace.md`   | Page that tests the editor using limited space.                              |
+| `Root\MarkdownEditorDemo\Scaling.md`        | Page that has an editor that scales with the content.                        |
 | `Root\MarkdownEditorDemo\Simple.md`         | Page that tests the basic funcionality of the editor.                        |
 | `Root\MarkdownEditorDemo\TwoEditors.md`     | Page that tests two edits at the same time.                                  |
 
