@@ -1,5 +1,5 @@
-﻿Title: Two Editors
-Description: Page with two editors
+﻿Title: Two Scaling Editors
+Description: Page with two scaling editors
 Date: 2025-02-26
 Author: Peter Waher
 Master: /Master.md
@@ -12,17 +12,17 @@ CSS: /MarkdownEditor.cssx
 
 =============================================
 
-Two Markdown Editors
-=========================
+Two Scaling Markdown Editors
+===============================
 
 First Editor
 ---------------
 
-![](/MarkdownEditor.md)
+![](/MarkdownEditor.md?Scale=true)
 <textarea autofocus="autofocus" wrap="hard"></textarea>
 
 Second Editor
 ----------------
 
-![](/MarkdownEditor.md)
+![](/MarkdownEditor.md?Scale=true)
 <textarea autofocus="autofocus" wrap="hard"></textarea>

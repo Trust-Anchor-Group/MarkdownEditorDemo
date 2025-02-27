@@ -10,6 +10,7 @@
 			<Content fileName="Scaling.md"/>
 			<Content fileName="Simple.md"/>
 			<Content fileName="TwoEditors.md"/>
+			<Content fileName="TwoScalingEditors.md"/>
 		</Folder>
 	</Folder>
 </Module>
