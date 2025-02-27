@@ -2,6 +2,9 @@
 <Module xmlns="http://waher.se/Schema/ModuleManifest.xsd">
 	<Folder name="Root">
 		<Folder name="MarkdownEditorDemo">
+			<Content fileName="DynamicEditor.md"/>
+			<Content fileName="DynamicEditors.js"/>
+			<Content fileName="DynamicEditors.md"/>
 			<Content fileName="Index.md"/>
 			<Content fileName="LimitedSpace.md"/>
 			<Content fileName="Simple.md"/>
