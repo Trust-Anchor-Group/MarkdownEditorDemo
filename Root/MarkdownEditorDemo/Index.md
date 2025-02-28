@@ -24,3 +24,4 @@ Following content pages are available for testing the Markdown Editor feature:
 | [`Scaling.md`](Scaling.md)                             | Contains a page where the editor scales with the content the user provodes. |
 | [`TwoScalingEditors.md`](TwoScalingEditors.md)         | Contains two separate scaling editors.                                      |
 | [`DynamicScalingEditors.md`](DynamicScalingEditors.md) | Contains a page where the user can add scaling editors dynamically.         |
+| [`DefaultPreview.md`](DefaultPreview.md)               | Contains a page where the bottom preview is on by default.                  |
